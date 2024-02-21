@@ -1,3 +1,3 @@
 # My Portfolio
 ## My Test Repo
-<a href="http://wencio.github.io/test"> Excercise </a>
+<a href="http://wencio.github.io/pythonbottradingexample"> Excercise </a>
